@@ -6,7 +6,7 @@
   "mcversion": "${minecraftVersion}",
   "url": "https://github.com/GTNewHorizons/BetterLoadingScreen",
   "updateUrl": "",
-  "authorList": ["AlexIIL", "jackowski626"],
+  "authorList": ["AlexIIL", "jackowski626, Bufka2011"],
   "credits": "To AlexIIL who created the mod, to Houston for graphical work",
   "logoFile": "assets/betterloadingscreen/textures/logo.png",
   "screenshots": ["assets/betterloadingscreen/textures/screenshot.png"],
