@@ -7,7 +7,6 @@
 #
 Got a question? Join our Discord server: discord.gg/wtNVzeE5QB
 Make sure you have installed a backup mod
-If a machine catches fire, it can explode
 You can bind the quests menu to a key, instead of using the book
 Pam's gardens can be picked up with right-click
 Placing a garden makes it spread
@@ -64,3 +63,30 @@ Also try GregTech: New Horizons!
 Don't use shaders - it's breaking Darkerer mod
 3.6 Roentegen?
 Factory Must Grow!
+Did you tried Schematica?
+There is a swarm ahead!
+Beware of glyphids
+Hydrogen Bomb VS Coughing Baby
+TODO: create MORE tips
+Say hello to DreamMaster from Bufka2011!
+What? Warden is a hard boss? Pff... Martian Invasion Ship
+This is not a bug, this is an anomaly!
+Did you already got tantalium?
+Not enough hardcore? Enable 528 mode in HBM config!
+Too hard? Well, get outta here
+ZIRNOX going brrrrrr
+Oh no, ZIRNOX going BOOOOOM
+PotatOS is funny :D
+Did you know that you can see Gerald explode from another planet?
+Multiplayer is awful... At least for now.
+Did you checked graphic settings?
+Chunks are loading too slow? We'll try to fix it.
+How many RAM do you have? 6GB fo NT:NH is perfect!
+Balance? Nah, never heard
+Wdym you lost all your inventory?
+Historically accurate! Maybe...
+50% scientific accurate!
+How about to share this modpack with your friends?
+The freaking meteorite landed INSIDE our rock cave!
+Oh no, pollution.
+Do you have radiation protection with you?
