@@ -22,7 +22,6 @@ Adventurer's backpack: integrated crafting grid, bed and fluid storage
 Beware of pollution!
 Found a bug? Report it on GitHub or Discord
 Tinker's smeltery does not double ores
-Look for ore chunksRead the quest book, it explains many mechanics
 You can bookmark items with NEI ("a" by default)
 It's NEI, not JEI. Use it frequently.
 Your pick is not ready
@@ -34,7 +33,7 @@ Abandon all vanilla knowledge all ye who enter here
 Sometimes it's better to flee than fight some mobs
 Sometimes the best combat strategy is "Nigerundayooo!"
 You can power machines by putting a batteries in their energy slots
-Be prepared to take hours to craft a single machine!
+Be prepared to take hours to build a single multiblock machine!
 Oil + Thunder = Fire.
 It's aluminIum, not aluminum
 Press F7 to see spots where mobs can spawn!
@@ -90,3 +89,19 @@ How about to share this modpack with your friends?
 The freaking meteorite landed INSIDE our rock cave!
 Oh no, pollution.
 Do you have radiation protection with you?
+Hello Canada!
+Hello USA!
+Hello Russia!
+Hello Ukraine!
+Peace to all!
+Be sure to check out if there is a new update!
+The best way to process ore is Acidizer + Centrifuge
+Crystallized ore gives you 2 ingots when smelting
+NTM's Electric Furnaces are must!
+Don't mine coal without breathing protection
+Number One Asbestos Fan
+You can use ingots from different mods in crafting
+She was Nuclear on my Tech until I New Horizons
+Did you already automated food production?
+It's automated, not automized
+Realistic Terrain Generator? Do you mean infinite cascade lag?
