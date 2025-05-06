@@ -105,3 +105,6 @@ She was Nuclear on my Tech until I New Horizons
 Did you already automated food production?
 It's automated, not automized
 Realistic Terrain Generator? Do you mean infinite cascade lag?
+Don't forget to feed your cat!
+Minecraft loading can take a while
+World loading can take a while
