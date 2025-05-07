@@ -91,9 +91,9 @@ Oh no, pollution.
 Do you have radiation protection with you?
 Hello Canada!
 Hello USA!
-Hello Russia!
-Hello Ukraine!
-Peace to all!
+Hello Russia! / Привет Россия!
+Hello Ukraine! / Привіт Україно!
+Peace to all! / Всем мира! / Мир усім!
 Be sure to check out if there is a new update!
 The best way to process ore is Acidizer + Centrifuge
 Crystallized ore gives you 2 ingots when smelting
@@ -108,3 +108,20 @@ Realistic Terrain Generator? Do you mean infinite cascade lag?
 Don't forget to feed your cat!
 Minecraft loading can take a while
 World loading can take a while
+It's better to pregen your world
+You can suggest your ideas on NTNH's GitHub repo
+You need help with NTM? Find SavageVegeta on YouTube!
+If you're russian try watching Ocelot's videos!
+If you're russian try watching Waldemar's videos!
+Do you know math? You'll need it
+2 idiots 1 reactor
+Night is REALLY scary!
+OMGWTF NUCLEAR CREEPER
+Pain-In-The-Ass modpack!
+If you're casual enable LBM mode in hbm.cfg
+If you're real hardcore enjoyer, enable 528 mode in hbm.cfg
+If you're real Pain-In-The-Ass enjoyer, enable 528 mode in hbm.cfg
+Hello HBMTheBobcat!
+Hello DreamMaster!
+Hello JamesH2!
+Hello everyone!
