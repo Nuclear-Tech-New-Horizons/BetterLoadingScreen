@@ -118,10 +118,38 @@ Do you know math? You'll need it
 Night is REALLY scary!
 OMGWTF NUCLEAR CREEPER
 Pain-In-The-Ass modpack!
-If you're casual enable LBM mode in hbm.cfg
-If you're real hardcore enjoyer, enable 528 mode in hbm.cfg
-If you're real Pain-In-The-Ass enjoyer, enable 528 mode in hbm.cfg
 Hello HBMTheBobcat!
 Hello DreamMaster!
 Hello JamesH2!
 Hello everyone!
+Explore structures like antennas for early resources  
+Build multiple furnaces to speed up alloy production  
+Sirens are doing UUUUUUUUUAAAAAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUU
+Monitor reactor temperature to prevent meltdowns  
+Use control rods to adjust RBMK output  
+Ensure cooling systems are functional  
+Check reactors for radiation leaks  
+Always wear hazmat suits near radioactive materials  
+Carry a Geiger counter to measure radiation levels  
+Store radioactive items in lead crates
+Craft bombs and missiles for defense
+Turrets are doing RATATATATATA
+Brother. The darkness is coming.
+Use HE to RF converters!
+Use RF to HE converters!  
+Search abandoned structures for rare components  
+Follow the questline
+Check the mod’s wiki for detailed information  
+Join the NTNH Discord for community support  
+Experiment with machine upgrades to increase efficiency 
+Account for pollution mechanics — they impact gameplay  
+Control soot emissions to avoid issues  
+Use soot towers to reduce pollution  
+Monitor heavy metal output from processes  
+Learn how pollution affects Glyphids and plan accordingly  
+Integrate with OpenComputers for automation 
+Use fire extinguishers for explosion fires  
+Craft armor and tools from advanced materials like desh  
+Be cautious with powerful weapons — they’re game-changers  
+Have fun and experiment — NTM offers endless possibilities
+Creepers are TERRIFYING
