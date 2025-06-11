@@ -6,16 +6,11 @@
 #Adventurer's backpack? Did you mean integrated crafting grid, bed and fluid
 #
 Got a question? Join our Discord server: discord.gg/wtNVzeE5QB
-Make sure you have installed a backup mod
 You can bind the quests menu to a key, instead of using the book
-Pam's gardens can be picked up with right-click
-Placing a garden makes it spread
-Water gardens can grow on land
 Be sure to check out what you can do with Mouse Tweaks
 Build multiblocks within the same chunk!
 Forestry Worktables are a must!
 Try the Midnight Theme for the questbook
-Try the Realistic Sky resourcepack
 Literally flint and steel!
 Tinker's tools can levelup: more modifiers and minig level bonus!
 Adventurer's backpack: integrated crafting grid, bed and fluid storage
@@ -27,7 +22,6 @@ It's NEI, not JEI. Use it frequently.
 Your pick is not ready
 Also try GT:NH!
 Put the "Mine" back in Minecraft
-If you aren't lucky enough, try enchanting your lootbags with Fortune III!
 Don't go out at night!
 Abandon all vanilla knowledge all ye who enter here
 Sometimes it's better to flee than fight some mobs
@@ -41,7 +35,7 @@ Press F9 to see chunk borders!
 Microcrafting is love, microcrafting is life
 If you're making a Project Red system, make sure to use a wall of drawers!
 How many circuits have you crafted in your life?
-XAERO's MAP: PRESS[M]
+XAERO's WORLD MAP: PRESS[M]
 sqrt(-1) loves you!
 (MultiMC > Curse) && (Technic > Curse): true
 All you had to do was tho follow the damn quest line, CJ!
@@ -57,37 +51,30 @@ I WANT ROCKET I WANT MOON - St4o
 Hello @Bufka2011 why did you copied our (GTNH) rules :kekwhat:
 Did you already crafted AE2 system?
 Press O to hide NEI overlay
-Making chamelium in Chemplant is efficient
 Also try GregTech: New Horizons!
-Don't use shaders - it's breaking Darkerer mod
 3.6 Roentegen?
 Factory Must Grow!
 Did you tried Schematica?
 There is a swarm ahead!
 Beware of glyphids
 Hydrogen Bomb VS Coughing Baby
-TODO: create MORE tips
 Say hello to DreamMaster from Bufka2011!
 What? Warden is a hard boss? Pff... Martian Invasion Ship
 This is not a bug, this is an anomaly!
 Did you already got tantalium?
-Not enough hardcore? Enable 528 mode in HBM config!
 Too hard? Well, get outta here
 ZIRNOX going brrrrrr
 Oh no, ZIRNOX going BOOOOOM
 PotatOS is funny :D
-Did you know that you can see Gerald explode from another planet?
-Multiplayer is awful... At least for now.
-Did you checked graphic settings?
-Chunks are loading too slow? We'll try to fix it.
+Did you checked graphics settings?
 How many RAM do you have? 6GB fo NT:NH is perfect!
-Balance? Nah, never heard
 Wdym you lost all your inventory?
 Historically accurate! Maybe...
 50% scientific accurate!
 How about to share this modpack with your friends?
 The freaking meteorite landed INSIDE our rock cave!
-Oh no, pollution.
+Yaaay, pollution! >:D
+Oh no, pollution. :(
 Do you have radiation protection with you?
 Hello Canada!
 Hello USA!
@@ -153,3 +140,8 @@ Craft armor and tools from advanced materials like desh
 Be cautious with powerful weapons — they’re game-changers  
 Have fun and experiment — NTM offers endless possibilities
 Creepers are TERRIFYING
+Also try S.T.A.L.K.E.R. Anomaly GAMMA!
+Also try Factorio!
+Also try Satisfactory!
+NTM: Extended Edition is awfully contentless
+Call your mom, make her happy
